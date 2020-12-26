@@ -2,6 +2,8 @@
 
 My solutions to the Problems at https://www.codewars.com/users/yagodim/
 
+### 26.12.2020
+- Calculating with Functions **5kyu**
 ### 23.12.2020
 - Maximum subarray sum **5kyu**
 ### 22.12.2020
