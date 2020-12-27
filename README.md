@@ -2,6 +2,8 @@
 
 My solutions to the Problems at https://www.codewars.com/users/yagodim/
 
+### 27.12.2020
+- Extract the domain name from a URL **5kyu**
 ### 26.12.2020
 - Calculating with Functions **5kyu**
 ### 23.12.2020
