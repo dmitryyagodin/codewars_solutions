@@ -3,6 +3,7 @@
 My solutions to the Problems at https://www.codewars.com/users/yagodim/
 
 ### 29.12.2020
+- Find the odd int **6kyu** (quick solution using a set with keys and values)
 - Sum of Pairs **5kyu** (took a couple of days to figure out a way to memoize)
 ### 27.12.2020
 - Extract the domain name from a URL **5kyu**
