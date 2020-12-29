@@ -2,6 +2,8 @@
 
 My solutions to the Problems at https://www.codewars.com/users/yagodim/
 
+### 29.12.2020
+- Sum of Pairs **5kyu** (took a couple of days to figure out a way to memoize)
 ### 27.12.2020
 - Extract the domain name from a URL **5kyu**
 ### 26.12.2020
