@@ -1,7 +1,8 @@
 # codewars_solutions
 
 My solutions to the Problems at https://www.codewars.com/users/yagodim/
-
+### 30.12.2020
+- Title Case **6kyu** 
 ### 29.12.2020
 - Find the odd int **6kyu** (quick solution using a set with keys and values)
 - Sum of Pairs **5kyu** (took a couple of days to figure out a way to memoize)
