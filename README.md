@@ -2,6 +2,7 @@
 
 My solutions to the Problems at https://www.codewars.com/users/yagodim/
 ### 30.12.2020
+- Sum of Digits / Digital Root **6kyu**
 - Title Case **6kyu** 
 ### 29.12.2020
 - Find the odd int **6kyu** (quick solution using a set with keys and values)
