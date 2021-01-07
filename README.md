@@ -1,6 +1,9 @@
 # codewars_solutions
 
 My solutions to the Problems at https://www.codewars.com/users/yagodim/
+### 07-Jan-2021
+- Creating Elements with React (reactElements.js) **7kyu**
+- Who Likes it? **6kyu**
 ### 30.12.2020
 - Sum of Digits / Digital Root **6kyu**
 - Title Case **6kyu** 
