@@ -1,6 +1,8 @@
 # codewars_solutions
 
 My solutions to the Problems at https://www.codewars.com/users/yagodim/
+### 08-Jan-2021
+- Highest Rank Number in an Array **6kyu**
 ### 07-Jan-2021
 - Creating Elements with React (reactElements.js) **7kyu**
 - Who Likes it? **6kyu**
