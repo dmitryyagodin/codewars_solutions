@@ -1,6 +1,9 @@
 # codewars_solutions
 
 My solutions to the Problems at https://www.codewars.com/users/yagodim/
+### 10-Jan-2021
+- [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023) **6kyu**
+- [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) **5kyu**
 ### 08-Jan-2021
 - Highest Rank Number in an Array **6kyu**
 ### 07-Jan-2021
