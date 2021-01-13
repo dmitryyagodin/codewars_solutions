@@ -12,13 +12,11 @@ snail = function(array) {
 
     while (array.length > 0) {
       try {
-        // copy array's upper row to newArr
-        newArr = newArr.concat(array[0]);
-        // delete this row from the original array
-        array = array.slice(1);
+        // move array's upper row to newArr
+        newArr = newArr.concat(array.shift());
         // move the last items for each of the subarrays from array to newArr
         array.forEach(i => newArr = newArr.concat(i.pop()));
-        // reverse the array's bottom row, cut it out and add to newArr 
+        // reverse the array's bottom row and move it to newArr 
         newArr = newArr.concat(array.pop().reverse());
         // move the first items for each of the subarrays from array to newArr in a reverse order
         newArr = newArr.concat(array.map(item => item.shift()).reverse());
