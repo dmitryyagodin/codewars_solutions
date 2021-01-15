@@ -1,6 +1,8 @@
 # codewars_solutions
 
 My solutions to the Problems at https://www.codewars.com/users/yagodim/
+### 15-Jan-2021
+- [Sum of two integers](https://www.codewars.com/kata/5a9c35e9ba1bb5c54a0001ac) **6kyu**
 ### 13-Jan-2021
 - [Vasya-Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8) (tickets.js) **6kyu**
 ### 11-Jan-2021
