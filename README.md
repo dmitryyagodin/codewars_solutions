@@ -1,6 +1,9 @@
 # codewars_solutions
 
 My solutions to the Problems at https://www.codewars.com/users/yagodim/
+### 18-Feb-2021
+-[Lifting State Up with React](https://www.codewars.com/kata/5ac37e32b4218298130001aa) **beta**
+
 ### 15-Jan-2021
 - [Sum of two integers](https://www.codewars.com/kata/5a9c35e9ba1bb5c54a0001ac) **6kyu**
 ### 13-Jan-2021
