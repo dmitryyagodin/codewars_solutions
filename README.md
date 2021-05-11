@@ -1,6 +1,9 @@
 # codewars_solutions
 
 My solutions to the Problems at https://www.codewars.com/users/yagodim/
+### 30-Apr-2021
+-[Cross product of vectors](https://www.codewars.com/kata/54566695309908a6590005f1) **7kyu**
+
 ### 18-Feb-2021
 -[Lifting State Up with React](https://www.codewars.com/kata/5ac37e32b4218298130001aa) **beta**
 
